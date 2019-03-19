@@ -11,7 +11,7 @@ Following lecture, we will deploy our portfolio app, workshop style. Each studen
 - Warm-up exercise
 - Review code challenges
 - Introduction of today's code challenge topic
-- Depoyment Overview and Demo
+- Deployment Overview and Demo
 - Deployment Workshop
 - Lab Preview
 
